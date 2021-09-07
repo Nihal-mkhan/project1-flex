@@ -1,0 +1,24 @@
+.flex{
+    display: flex;
+}
+.sub-box{
+    display:flex;
+}
+#one{
+    background:black;
+    width: 70px;
+    height:390px;
+    margin:10px;
+}
+#two{
+    background:black;
+    margin:10px;
+    width: 160px;
+    height: 70px;
+}
+#three, #four{
+    background:black;
+    width: 70px;
+    height: 300px;
+    margin:10px;
+}

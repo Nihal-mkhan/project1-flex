@@ -1,0 +1,19 @@
+.flex{
+    display: flex;
+    flex-direction:column;
+}
+.item{
+    height:300px;
+    width: 80px;
+    background:black;
+    margin:10px;
+}
+.main{
+    height: 70px;
+    width: 280px;
+    background: black;
+    margin:10px;
+}
+.box{
+    display:flex;
+}

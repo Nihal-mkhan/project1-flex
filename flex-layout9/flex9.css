@@ -1,0 +1,25 @@
+.flex{
+    display: flex;
+    flex-direction:column;
+}
+.item1{
+    height:300px;
+    width: 180px;
+    background:black;
+    margin:15px;
+}
+.item2{
+    height: 300px;
+    width: 80px;
+    background:black;
+    margin:15px;
+}
+.main{
+    height: 70px;
+    width: 290px;
+    background: black;
+    margin:15px;
+}
+.box{
+    display:flex;
+}

@@ -1,0 +1,21 @@
+.flex{
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+    justify-content: center;
+}
+.box1, .box2{
+    display:flex;
+}
+.item1{
+    width:70px;
+    height: 250px;
+    background: black;
+    margin:10px;
+}
+.item2{
+    width: 115px;
+    height:250px;
+    background: black;
+    margin:10px;
+}
